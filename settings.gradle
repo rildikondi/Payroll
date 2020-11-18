@@ -1,2 +1,4 @@
+include ':business'
+include ':java_ui'
 include ':app'
 rootProject.name = "Payroll"
